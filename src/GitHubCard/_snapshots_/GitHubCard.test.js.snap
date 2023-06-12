@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "paddingTop": "5em",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="cladden-photo.jpeg"
+      style={
+        Object {
+          "borderRadius": "20px",
+          "maxWidth": "50%",
+        }
+      }
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Chris Ladden
+      </div>
+      <p
+        className="card-text"
+      >
+        I'm a multi-diciplinary designer and developer living in Olathe, Kansas!
+      </p>
+    </div>
+  </div>
+</div>
+`;
